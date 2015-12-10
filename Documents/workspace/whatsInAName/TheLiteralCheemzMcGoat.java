@@ -1,17 +1,21 @@
 
 public class TheLiteralCheemzMcGoat {
+	//marco
 	static char[] reverse 
 	{
 		return
 	}
+	//damon
 	static int vowel
 	{
 		
 	}
+	//Nicky
 	static int consonentFrequency
 	{
 		
 	}
+	//Ryan
 	static String firtsName
 	{
 		
