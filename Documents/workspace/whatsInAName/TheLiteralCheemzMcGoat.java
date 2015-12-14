@@ -8,7 +8,7 @@ public class TheLiteralCheemzMcGoat {
 	//damon
 	static int vowel
 	{
-		
+		//REAL ACTUAL CHANGES
 	}
 	//Nicky
 	static int consonentFrequency
