@@ -1,5 +1,10 @@
-
+import java.util.*
 public class TheLiteralCheemzMcGoat {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner();
+		char[] input = scan.nextLine().toCharArray();
+
+	}
 	//marco
 	static char[] reverse 
 	{
@@ -64,4 +69,5 @@ public class TheLiteralCheemzMcGoat {
 	{
 		
 	}
+
 }
