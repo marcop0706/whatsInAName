@@ -21,7 +21,7 @@ public class TheLiteralCheemzMcGoat {
 		
 	}
 	//Ryan
-	static String firtsName
+	static String firstName
 	{
 		
 	}
