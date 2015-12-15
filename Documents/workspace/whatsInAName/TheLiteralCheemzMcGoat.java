@@ -11,9 +11,14 @@ public class TheLiteralCheemzMcGoat {
 		return
 	}
 	//damon
-	static int vowel
-	{
-		//REAL ACTUAL CHANGES
+	static int vowel(char[] charray){
+		int vowelnum = 0;
+		for(int i = 0; i < charray.length; i++){
+			if(charray[i].equals('a') || charray[i].equals('e') || charray[i].equals('i') || charray[i].equals('o') || charray[i].equals('u')){
+				vowelnum++;
+			}
+		}
+		return vowelnum;
 	}
 	//Nicky
 	static int consonentFrequency
